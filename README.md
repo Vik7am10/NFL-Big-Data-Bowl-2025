@@ -6,6 +6,7 @@ Every tight end could have possibly four roles on a given play if they are on th
 In this project, we analyze the post-snap behaviour, action and usage of each tight end on a play using pre-snap tracking data. Our model aims to provide data-driven insights that predict one of the above four outcomes for each tight end on the field at any given point with actionable insights to help better prepare defenses.
 
 Link to Kaggle Notebook: https://www.kaggle.com/code/vanshajvohra/tight-end-the-most-versatile-position
+
 Team Members (in alphabetical order):
 1. Vanshaj Vohra (https://www.linkedin.com/in/vanshajvohra/)
 2. Vikram Chandramohan (https://www.linkedin.com/in/vikram-chandramohan-56914)
